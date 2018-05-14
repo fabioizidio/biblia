@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Fábio Izidio <fabioizidio7@gmail.com> -->
+<component type="desktop">
+  <id>com.github.fabioizidio.biblia.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Bíblia</name>
+  <summary>Bíblia Sagrada em português para Elementary OS</summary>
+  <description>
+    <p>Bíblia Sagrada em português para Elementary OS.</p>
+  </description>
+</component>
