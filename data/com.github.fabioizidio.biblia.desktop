@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Bíblia
+GenericName=Bíblia App
+Comment=Bíblia Sagrada em português para Elementary OS
+Categories=Utility;Education;
+Exec=com.github.fabioizidio.biblia
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=hello-again
+Keywords=Bíblia;Bible;Hole Bible;
